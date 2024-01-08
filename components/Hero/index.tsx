@@ -28,16 +28,16 @@ const Hero = () => {
                 </h3>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
-                    href="https://forms.gle/ZA5J3zT7WTzX51ew7" target="_blank"
+                    href="https://s.id/dapil1dpt" target="_blank"
                     className="rounded-sm bg-[#04177c] px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                   >
-                    SAKSI
+                    FORM DPT
                   </Link>
                   <Link
                     href="https://docs.google.com/forms/d/e/1FAIpQLSdMcNi7pARTsegqz1gim4iXMSq9YgaFYGDH375PuX_3VK2d7Q/viewform?usp=sf_link" target="_blank"
                     className="inline-block rounded-sm bg-black px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5"
                   >
-                    PEMILIH
+                    RELAWAN
                   </Link>
                 </div>
               </div>
