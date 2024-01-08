@@ -37,7 +37,13 @@ const Hero = () => {
                     href="https://docs.google.com/forms/d/e/1FAIpQLSdMcNi7pARTsegqz1gim4iXMSq9YgaFYGDH375PuX_3VK2d7Q/viewform?usp=sf_link" target="_blank"
                     className="inline-block rounded-sm bg-black px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5"
                   >
-                    RELAWAN
+                    FORM DAPIL 
+                  </Link>
+                   <Link
+                    href="https://forms.gle/3u76GiPVcrbs5Prd8" target="_blank"
+                    className="rounded-sm bg-[#04177c] px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
+                  >
+                    KOORDINATOR TPS
                   </Link>
                 </div>
               </div>
