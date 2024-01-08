@@ -40,7 +40,7 @@ const Hero = () => {
                     DAPIL 1 
                   </Link>
                    <Link
-                    href="https://forms.gle/3u76GiPVcrbs5Prd8" target="_blank"
+                    href="https://forms.gle/vQcTbdwAnSnzAhXz5" target="_blank"
                     className="rounded-sm bg-[#04177c] px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                   >
                     KOORDINATOR TPS
